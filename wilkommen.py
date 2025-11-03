@@ -1,7 +1,7 @@
 
-print("Hello Mudtsfss    ");
+print("Hello sadasdasd");
 print("Willkommen in der Welt der Programmierung!");
-print("yasdfyg");
+print("dajsdlkaskda");
 print("Neue Zeile hinzugefügt.");
 print("Noch eine Zeile.");
 print("Dies ist eine weitere Zeile.");
