@@ -1,5 +1,5 @@
 
-print("Hello asdfadsfghj");
+print("Hello Mustafa");
 print("Willkommen in der Welt der Programmierung!");
 print("asdas");
 print("Neue Zeile hinzugefügt.");
