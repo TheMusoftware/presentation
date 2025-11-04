@@ -1,6 +1,6 @@
 
-print("Hello sadasfsdfsddasd");
-print("Willkommen in der Welt der Programmierung!");
+print("Hello");
+print("");
 print("dajsdlkaskda");
 print("Neue Zeile hinzugefügt.");
 print("Noch eine Zeile.");
